@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/catwebsite/static/css/main.86d1989c.css",
-    "main.js": "/catwebsite/static/js/main.f9fa6118.js",
-    "static/media/cat2.jpg": "/catwebsite/static/media/cat2.978ff390eac3a724e2d1.jpg",
-    "static/media/cat3.jpg": "/catwebsite/static/media/cat3.280001705628e4022d5c.jpg",
+    "main.css": "/catwebsite/static/css/main.cb7f5848.css",
+    "main.js": "/catwebsite/static/js/main.d8399243.js",
+    "static/media/cat2q.png": "/catwebsite/static/media/cat2q.07da88375be04fd30437.png",
+    "static/media/cat1q.png": "/catwebsite/static/media/cat1q.9f40fad30669b2377819.png",
+    "static/media/cat3q.png": "/catwebsite/static/media/cat3q.d5788655d186997a0079.png",
     "static/media/cat1.jpg": "/catwebsite/static/media/cat1.7d4db7a3ad15907a1819.jpg",
     "static/media/cat_symbol.avif": "/catwebsite/static/media/cat_symbol.4df3002e05e394729e8f.avif",
     "index.html": "/catwebsite/index.html",
-    "main.86d1989c.css.map": "/catwebsite/static/css/main.86d1989c.css.map",
-    "main.f9fa6118.js.map": "/catwebsite/static/js/main.f9fa6118.js.map"
+    "main.cb7f5848.css.map": "/catwebsite/static/css/main.cb7f5848.css.map",
+    "main.d8399243.js.map": "/catwebsite/static/js/main.d8399243.js.map"
   },
   "entrypoints": [
-    "static/css/main.86d1989c.css",
-    "static/js/main.f9fa6118.js"
+    "static/css/main.cb7f5848.css",
+    "static/js/main.d8399243.js"
   ]
 }
