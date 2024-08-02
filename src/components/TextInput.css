@@ -1,0 +1,21 @@
+.text-input-container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 1rem;
+  }
+  
+  .text-input-container .textarea-wrapper {
+    flex: 12; /* Adjust this value to control the width of the text area */
+    margin-right: 1rem;
+  }
+  
+  .text-input-container .buttons-wrapper {
+    flex: 1; /* Adjust this value to control the width of the buttons */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .text-input-container .buttons-wrapper .btn {
+    margin-bottom: 0.5rem;
+  }
+  

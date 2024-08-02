@@ -1,0 +1,14 @@
+.carousel-image {
+  height: 60vh; /* Set your desired height here */
+  object-fit: cover; /* Ensure the image covers the entire area while maintaining aspect ratio */
+}
+
+.generated-image-container img {
+  height: 60vh; /* Adjust the height as needed */
+  object-fit: cover; /* Ensure the image covers the entire area while maintaining aspect ratio */
+}
+
+.quote-display {
+  text-align: center;
+  margin-top: 1rem;
+}
